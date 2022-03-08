@@ -1,0 +1,6 @@
+tqdm==4.35.0
+torch==1.9.0
+torchvision==0.10.0
+tensorflow==2.7.1
+#numpy==1.16.3
+comet-ml==2.0.12
